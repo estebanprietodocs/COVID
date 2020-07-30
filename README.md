@@ -1,2 +1,6 @@
-## COVID Data Visualization
-  - describe
+## COVID Data Visualization Project
+  - Data loading
+  - Data cleaning
+  - Data manipulating
+  - Data visualizating
+
